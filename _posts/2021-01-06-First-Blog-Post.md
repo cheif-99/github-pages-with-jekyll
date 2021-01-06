@@ -1,3 +1,8 @@
+---
+title: "NEW-TITLE"
+date: 2021-01-06
+---
+
 This is my first blog post.
 i intend to make it short and sweet.
 
